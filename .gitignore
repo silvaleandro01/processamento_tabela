@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 dados_processados.csv
 dados_processados.xlsx
+grafico_totais.png
+.pytest_cache/
